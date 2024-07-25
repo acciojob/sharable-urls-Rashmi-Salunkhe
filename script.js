@@ -1,4 +1,3 @@
-// your code here
 document.getElementById('button').addEventListener('click', function() {
     const name = document.getElementById('name').value;
     const year = document.getElementById('year').value;
